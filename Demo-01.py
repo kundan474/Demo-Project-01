@@ -2,3 +2,5 @@
 
 def msg():
     print("Hellow World!!!") 
+
+msg()
